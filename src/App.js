@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="container">
         <h1 className="title">Movie Search</h1>
-      <SearchMovies />
+          <SearchMovies />
     </div>
   );
 }
