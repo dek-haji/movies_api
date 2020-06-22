@@ -17,7 +17,7 @@ REACT_APP_MOVIES_API= "d3a5f860762a9716f7c9c9b9dba5151d"
 .env.development.local
 .env.test.local
 .env.production.local
-
+d3a5f860762a9716f7c9c9b9dba5151d
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
